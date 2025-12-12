@@ -1,7 +1,3 @@
-Below is a concise, general-purpose `README.md` you can paste into your GitHub repo and then edit with your project-specific details (dataset name, repo URL, exact results, etc.), while keeping the structure aligned with your paper.[1]
-
-***
-
 # A Unified Framework for Depression Detection Using Machine Learning Algorithms
 
 This repository contains the implementation of a unified framework for detecting depression from textual data using multiple traditional machine learning algorithms. The work is based on the research paper **“A Unified Framework for Depression Detection Using ML Algorithms”**. The system focuses on analyzing user-generated text (e.g., social media posts, forums, or clinical notes) to identify depressive tendencies.[1]
@@ -144,18 +140,5 @@ Ensemble methods, especially Bagging and Random Forest, were found to be strong 
 
 If you or someone you know is struggling with mental health, contact qualified professionals or local helplines rather than relying on automated systems.
 
-## How to Cite
+language/framework implemented in Python scripts, Jupyter, PyTorch, etc.
 
-If this work or codebase is useful in your research, consider citing the corresponding paper:
-
-> J. Venkata Nandini, K. Faizz Ahmad, A. Dharani, L. Sai Chaitanya, B. Jagadeesh, “A Unified Framework for Depression Detection Using ML Algorithms,” *International Journal of Engineering Research & Science & Technology*, Vol. 21, Issue 2, 2025.[1]
-
-## License
-
-Add your chosen open-source license here (e.g., MIT, Apache 2.0) and include the corresponding `LICENSE` file. Ensure any datasets or third-party resources you use are compatible with this license.
-
-***
-
-If you tell what language/framework you implemented (pure Python scripts, Jupyter, PyTorch, etc.), a more customized README can be drafted to match your exact file names and commands.
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/135671473/b0b9d409-5314-47dc-9511-52c4995bb6c6/Research-Paper.pdf)
